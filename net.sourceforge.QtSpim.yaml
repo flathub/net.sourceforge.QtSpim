@@ -29,7 +29,7 @@ modules:
     sources:
       - type: svn
         url: https://svn.code.sf.net/p/spimsimulator/code/
-        revision: r732
+        revision: r749
       - type: shell
         commands:
           # Rebuild the parser because the provided version won't compile...
