@@ -8,8 +8,10 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>BSD-3-Clause</project_license>
   <url type="homepage">http://spimsimulator.sourceforge.net/</url>
+  <url type="vcs-browser">https://sourceforge.net/p/spimsimulator/code/</url>
   <description>
-    <p>QtSpim is a self-contained simulator that runs MIPS32 programs. It reads and executes assembly language programs written for this processor. QtSpim also provides a simple debugger and minimal set of operating system services.</p>
+    <p>QtSpim is a self-contained simulator that runs MIPS32 programs. It reads and executes assembly language programs written for this processor.
+      QtSpim also provides a simple debugger and minimal set of operating system services.</p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -22,7 +24,10 @@
   <releases>
     <release version="9.1.23" date="2021-12-06" />
   </releases>
-  <content_rating type="oars-1.1">
-  </content_rating>
+  <content_rating type="oars-1.1"/>
+  <categories>
+    <category>Development</category>
+    <category>Debugger</category>
+  </categories>
   <update_contact>rymg19_at_gmail.com</update_contact>
 </component>
